@@ -1,6 +1,6 @@
-﻿# Implementando o Padrão Builder em C# - Aula para Iniciantes
+﻿# Implementando o Padrão Builder em C#
 
-Olá, estudante! Hoje vamos aprender sobre o **Padrão Builder**, um dos padrões de projeto (design patterns) mais úteis na programação orientada a objetos. Vou explicar passo a passo, como se estivéssemos em uma aula presencial.
+Vamos falar sobre o **Padrão Builder**, um dos padrões de projeto (design patterns) mais úteis na programação orientada a objetos. 
 
 ## O que é o Padrão Builder?
 
